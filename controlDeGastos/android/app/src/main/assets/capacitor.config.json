@@ -1,0 +1,6 @@
+{
+	"appId": "io.controlDeGastos.starter",
+	"appName": "controlDeGastos",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

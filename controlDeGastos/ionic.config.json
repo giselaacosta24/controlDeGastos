@@ -1,0 +1,8 @@
+{
+  "name": "controlDeGastos",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
